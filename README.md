@@ -54,7 +54,7 @@ R script for performing k-means clustering, followed by hierarchical clustering 
 R script for plotting heamaps (Fig. 6A and S3I).
 
 [13_kmeanClust_AIC.R](https://github.com/rtnakano1984/SYP4_secretome/blob/master/13_kmeanClust_AIC.R) / [14_kmeans.R](https://github.com/rtnakano1984/SYP4_secretome/blob/master/14_kmeans.R) / [15_heatmaps.R](https://github.com/rtnakano1984/SYP4_secretome/blob/master/15_heatmaps.R)  
-Same for scripts #11-13 but without subsetting to proteins with SPs (Fig. S3C-G).
+Same as what Scripts #10-12 do but without subsetting to proteins with SPs (Fig. S3C-G).
 
 [16_CPCoA.SP.R](https://github.com/rtnakano1984/SYP4_secretome/blob/master/16_CPCoA.SP.R)  
 R script for Principal Coordinates Analysis (PCoA) and Canonical Analysis of Principal coodinates (CAP) (Fig. 6B,C and S4A-E).
