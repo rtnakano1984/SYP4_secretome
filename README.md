@@ -1,4 +1,4 @@
-## Scripts of Uemura and Nakano *et al.*, A Golgi-released subpopulation of the trans-Golgi network mediates constitutive and pathogen-inducible protein secretion in Arabidopsis [Plant Physiol., in press (2018)](http://www.plantphysiol.org/content/early/2018/12/13/pp.18.01228).
+## Scripts of Uemura and Nakano _et al._, A Golgi-released subpopulation of the trans-Golgi network mediates constitutive and pathogen-inducible protein secretion in Arabidopsis [Plant Physiol., 2019](http://www.plantphysiol.org/content/179/2/519).
 
 originally by Ryohei Thomas Nakano
 
